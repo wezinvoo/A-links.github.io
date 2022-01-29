@@ -1,0 +1,252 @@
+[2022-01-26T11:24:33.519315+01:00] system.ERROR: Return type of Core\Support\ORM::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2257 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.520463+01:00] system.ERROR: Return type of Core\Support\ORM::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2261 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.521069+01:00] system.ERROR: Return type of Core\Support\ORM::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2265 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.521329+01:00] system.ERROR: Return type of Core\Support\ORM::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2272 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.521584+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2493 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.521824+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2502 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.522063+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2511 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.522309+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2520 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.522551+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2529 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.522835+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2537 -> http://localhost/main/database  
+
+[2022-01-26T11:24:33.523078+01:00] system.ERROR: Core\Support\IdiormResultSet implements the Serializable interface, which is deprecated. Implement __serialize() and __unserialize() instead (or in addition, if support for old PHP versions is necessary) occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2450 -> http://localhost/main/database  
+
+[2022-01-26T11:24:34.305291+01:00] system.ERROR: json_decode(): Passing null to parameter #1 ($json) of type string is deprecated occurred in C:\xampp\htdocs\main\core\Request.class.php:417 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.086253+01:00] system.ERROR: Constant FILTER_SANITIZE_STRING is deprecated occurred in C:\xampp\htdocs\main\core\Helper.class.php:545 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.086974+01:00] system.ERROR: Constant FILTER_SANITIZE_STRING is deprecated occurred in C:\xampp\htdocs\main\core\Helper.class.php:546 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.091420+01:00] system.ERROR: Return type of Core\Support\ORM::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2257 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.091695+01:00] system.ERROR: Return type of Core\Support\ORM::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2261 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.091947+01:00] system.ERROR: Return type of Core\Support\ORM::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2265 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.092191+01:00] system.ERROR: Return type of Core\Support\ORM::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2272 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.092435+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2493 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.092738+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2502 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.092985+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2511 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.093221+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2520 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.093458+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2529 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.093702+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2537 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.093994+01:00] system.ERROR: Core\Support\IdiormResultSet implements the Serializable interface, which is deprecated. Implement __serialize() and __unserialize() instead (or in addition, if support for old PHP versions is necessary) occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2450 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.094284+01:00] system.ERROR: str_replace(): Passing null to parameter #1 ($search) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:1849 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.094537+01:00] system.ERROR: str_replace(): Passing null to parameter #1 ($search) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:1849 -> http://localhost/main/user  
+
+[2022-01-26T11:24:51.094844+01:00] system.ERROR: str_replace(): Passing null to parameter #1 ($search) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:1849 -> http://localhost/main/user  
+
+[2022-01-26T11:24:54.590570+01:00] system.ERROR: Return type of Core\Support\ORM::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2257 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.591953+01:00] system.ERROR: Return type of Core\Support\ORM::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2261 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.592240+01:00] system.ERROR: Return type of Core\Support\ORM::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2265 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.592488+01:00] system.ERROR: Return type of Core\Support\ORM::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2272 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.592737+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2493 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.592983+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2502 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.593223+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2511 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.593458+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2520 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.593747+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2529 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.593987+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2537 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.594220+01:00] system.ERROR: Core\Support\IdiormResultSet implements the Serializable interface, which is deprecated. Implement __serialize() and __unserialize() instead (or in addition, if support for old PHP versions is necessary) occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2450 -> http://localhost/main/  
+
+[2022-01-26T11:24:54.605128+01:00] system.ERROR: str_replace(): Passing null to parameter #1 ($search) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:1849 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.656882+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:110 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.657389+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:119 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.657764+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:134 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.658066+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::current() should either be compatible with Iterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:52 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.658435+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::next() should either be compatible with Iterator::next(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:60 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.658794+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:93 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.949910+00:00] system.ERROR: json_decode(): Passing null to parameter #1 ($json) of type string is deprecated occurred in C:\xampp\htdocs\main\core\Request.class.php:417 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.962822+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.963164+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.969928+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.970228+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.970552+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.970813+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.971063+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.972580+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.973744+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.974035+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.974322+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.974593+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.985134+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.985429+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.985811+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.994170+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.994461+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.994777+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.995800+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.996071+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.996319+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T10:24:54.997114+00:00] system.ERROR: preg_replace(): Passing null to parameter #2 ($replacement) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\Gem.class.php:446 -> http://localhost/main/  
+
+[2022-01-26T11:25:00.070338+01:00] system.ERROR: Return type of Core\Support\ORM::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2257 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.071096+01:00] system.ERROR: Return type of Core\Support\ORM::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2261 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.071347+01:00] system.ERROR: Return type of Core\Support\ORM::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2265 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.071590+01:00] system.ERROR: Return type of Core\Support\ORM::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2272 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.071839+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2493 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.072083+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2502 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.072323+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2511 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.072616+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2520 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.072906+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2529 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.073148+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2537 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.073385+01:00] system.ERROR: Core\Support\IdiormResultSet implements the Serializable interface, which is deprecated. Implement __serialize() and __unserialize() instead (or in addition, if support for old PHP versions is necessary) occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2450 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:00.076362+01:00] system.ERROR: str_replace(): Passing null to parameter #1 ($search) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:1849 -> http://localhost/main/shorten  
+
+[2022-01-26T10:25:00.086114+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:110 -> http://localhost/main/shorten  
+
+[2022-01-26T10:25:00.086584+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:119 -> http://localhost/main/shorten  
+
+[2022-01-26T10:25:00.086834+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:134 -> http://localhost/main/shorten  
+
+[2022-01-26T10:25:00.087076+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::current() should either be compatible with Iterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:52 -> http://localhost/main/shorten  
+
+[2022-01-26T10:25:00.087365+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::next() should either be compatible with Iterator::next(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:60 -> http://localhost/main/shorten  
+
+[2022-01-26T10:25:00.087612+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:93 -> http://localhost/main/shorten  
+
+[2022-01-26T11:25:03.700350+01:00] system.ERROR: Return type of Core\Support\ORM::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2257 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.700912+01:00] system.ERROR: Return type of Core\Support\ORM::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2261 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.701168+01:00] system.ERROR: Return type of Core\Support\ORM::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2265 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.701413+01:00] system.ERROR: Return type of Core\Support\ORM::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2272 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.701658+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2493 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.701900+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2502 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.702140+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2511 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.702378+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2520 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.702756+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2529 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.703041+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2537 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.703288+01:00] system.ERROR: Core\Support\IdiormResultSet implements the Serializable interface, which is deprecated. Implement __serialize() and __unserialize() instead (or in addition, if support for old PHP versions is necessary) occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2450 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:03.705007+01:00] system.ERROR: str_replace(): Passing null to parameter #1 ($search) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:1849 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T10:25:03.712496+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:110 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T10:25:03.712899+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:119 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T10:25:03.713147+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:134 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T10:25:03.713390+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::current() should either be compatible with Iterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:52 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T10:25:03.713631+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::next() should either be compatible with Iterator::next(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:60 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T10:25:03.713874+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:93 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T10:25:03.734196+00:00] system.ERROR: json_decode(): Passing null to parameter #1 ($json) of type string is deprecated occurred in C:\xampp\htdocs\main\core\Request.class.php:417 -> http://localhost/main/zdvsz/qr  
+
+[2022-01-26T11:25:08.643212+01:00] system.ERROR: Return type of Core\Support\ORM::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2257 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.644484+01:00] system.ERROR: Return type of Core\Support\ORM::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2261 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.645065+01:00] system.ERROR: Return type of Core\Support\ORM::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2265 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.645605+01:00] system.ERROR: Return type of Core\Support\ORM::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2272 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.646250+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2493 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.646653+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2502 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.646996+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2511 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.647326+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2520 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.647667+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2529 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.648003+01:00] system.ERROR: Return type of Core\Support\IdiormResultSet::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2537 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.648335+01:00] system.ERROR: Core\Support\IdiormResultSet implements the Serializable interface, which is deprecated. Implement __serialize() and __unserialize() instead (or in addition, if support for old PHP versions is necessary) occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:2450 -> http://localhost/main/zdvsz  
+
+[2022-01-26T11:25:08.651698+01:00] system.ERROR: str_replace(): Passing null to parameter #1 ($search) of type array|string is deprecated occurred in C:\xampp\htdocs\main\core\support\ORM.class.php:1849 -> http://localhost/main/zdvsz  
+
+[2022-01-26T10:25:08.665395+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:110 -> http://localhost/main/zdvsz  
+
+[2022-01-26T10:25:08.666062+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:119 -> http://localhost/main/zdvsz  
+
+[2022-01-26T10:25:08.666491+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:134 -> http://localhost/main/zdvsz  
+
+[2022-01-26T10:25:08.666843+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::current() should either be compatible with Iterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:52 -> http://localhost/main/zdvsz  
+
+[2022-01-26T10:25:08.667183+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::next() should either be compatible with Iterator::next(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:60 -> http://localhost/main/zdvsz  
+
+[2022-01-26T10:25:08.667523+00:00] system.ERROR: Return type of Phpfastcache\Util\ArrayObject::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice occurred in C:\xampp\htdocs\main\vendor\phpfastcache\phpfastcache\lib\Phpfastcache\Util\ArrayObject.php:93 -> http://localhost/main/zdvsz  
+
+[2022-01-26T10:25:08.717688+00:00] system.ERROR: json_decode(): Passing null to parameter #1 ($json) of type string is deprecated occurred in C:\xampp\htdocs\main\core\Request.class.php:417 -> http://localhost/main/zdvsz  
+
+[2022-01-26T10:25:09.964013+00:00] system.ERROR: preg_match(): Passing null to parameter #2 ($subject) of type string is deprecated occurred in C:\xampp\htdocs\main\app\controllers\LinkController.php:239 -> http://localhost/main/zdvsz  
+
